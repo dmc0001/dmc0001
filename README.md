@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haithem Attab</h1>
-<h3 align="center">A passionate Student computer science from Algeria</h3>
+<h3 align="center">A passionate computer science student from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmc0001&label=Profile%20views&color=0e75b6&style=flat" alt="dmc0001" /> </p>
 
