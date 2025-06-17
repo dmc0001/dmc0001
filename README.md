@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hey there! I'm Haitham Attab</h1>
+# 👋 Hey there! I'm Haitham Attab
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Mobile+Developer+%F0%9F%93%B1;Android+%7C+Kotlin+%7C+Compose;Building+Amazing+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <br /><br />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Mobile+Developer+📱;Android+%7C+Kotlin+%7C+Compose;Building+Amazing+Apps+🚀)
 
-  <img src="https://komarev.com/ghpvc/?username=dmc0001&label=Profile%20Views&color=4285F4&style=for-the-badge" alt="profile views" />
-  
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=dmc0001&label=Profile%20Views&color=4285F4&style=for-the-badge" alt="profile views" />
+
 </div>
 
 
