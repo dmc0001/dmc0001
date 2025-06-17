@@ -1,164 +1,189 @@
-<h1 align="center">Hi there, I'm Haitham Attab 👋</h1>
-<h3 align="center">A Mobile Developer 📲</h3>
+# 👋 Hey there! I'm Haitham Attab
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dmc0001&label=Profile%20Views&color=1e88e5&style=flat-square" alt="profile views" />
-</p>
-
-<!-- Bio Section -->
-<p align="center">
-  🚀 Hi, I’m **Haitham Attab**, a Mobile Developer & CS student from Algeria 🇩🇿. I architect native Android apps in **Kotlin** with **Jetpack Compose**, and build multi-platform solutions with **Compose Multiplatform** and **React Native**. I follow **MVVM**, **MVI**, **Clean Architecture**, **Design patterns**, and **SOLID** principles to ensure scalable, maintainable, and user-centric code. Passionate about cross-platform innovation, clean UI/UX, and delivering delightful app experiences—let’s build something remarkable together!
-</p>
-
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Mobile+Developer+%F0%9F%93%B1;Android+%7C+Kotlin+%7C+Compose;Building+Amazing+Apps+%F0%9F%9A%80)
+  
+  <img src="https://komarev.com/ghpvc/?username=dmc0001&label=Profile%20Views&color=4285F4&style=for-the-badge" alt="profile views" />
+  
+</div>
 
 ---
 
-<h3 align="left">📬 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/haitham-attab-99435a21b/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/lorenzo28669549" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
- <a href="mailto:lorenzomedici2001@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" />
-</a>
+## 🚀 About Me
 
-</p>
+```kotlin
+class MobileDeveloper {
+    val name = "Haitham Attab"
+    val location = "Algeria 🇩🇿"
+    val role = "Mobile Developer & CS Student"
+    
+    val expertise = listOf(
+        "Native Android Development",
+        "Jetpack Compose UI",
+        "Compose Multiplatform",
+        "React Native",
+        "Clean Architecture"
+    )
+    
+    val principles = listOf("MVVM", "MVI", "SOLID", "Clean Code")
+    
+    fun currentFocus() = "Building delightful cross-platform experiences"
+    fun passion() = "Creating user-centric apps that make a difference"
+}
+```
 
----
-
-<h3 align="left">🛠️ My Tech Stack</h3>
-
-<h4>📱 Mobile Development</h4>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  </a>
-  <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Compose%20Multiplatform-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white" alt="Compose Multiplatform"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/>
-  </a>
-</p>
-
-<h4>🏗️ Architecture & Design Patterns</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-blue?style=for-the-badge" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/SOLID-purple?style=for-the-badge" alt="SOLID Principles"/>
-  <img src="https://img.shields.io/badge/SOLID-purple?style=for-the-badge" alt="Design Patterns"/>
-  <img src="https://img.shields.io/badge/MVVM-orange?style=for-the-badge" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/MVVM-orange?style=for-the-badge" alt="MVI/>
-</p>
-
-<h4>🌐 Programming Languages & Networking</h4>
-<p align="left">
-
-  <!-- Languages -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  </a>
-
-  <!-- Networking -->
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=protocols&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/WebSockets-800000?style=for-the-badge" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/Retrofit-FF6D00?style=for-the-badge" alt="Retrofit"/>
-  <img src="https://img.shields.io/badge/OkHttp-4A90E2?style=for-the-badge" alt="OkHttp"/>
-  <img src="https://img.shields.io/badge/HTTP/HTTPS-4285F4?style=for-the-badge" alt="HTTP HTTPS"/>
-</p>
-
-
-<h4>🗄️ Backend & Databases</h4>
-<p align="left">
-  <!-- Ktor -->
-  <a href="https://ktor.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Ktor" />
-  </a>
-
-  <!-- Go -->
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  </a>
-</p>
-
-
-<h4>🔧 Tools & Platforms</h4>
-<p align="left">
-  <!-- Version Control & Editors -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  </a>
-
-  <!-- API & Container Tools -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-
-  <!-- Design & IDE -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  </a>
-</p>
-
+> 💡 Passionate about crafting scalable, maintainable mobile applications with clean architecture and beautiful UI/UX. Always learning, always building!
 
 ---
 
-<h3 align="left">📊 My GitHub Stats & Trophies</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmc0001&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github" alt="Haitham's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmc0001&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Haitham's Top Languages" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dmc0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Haitham's Trophies" />
-  </a>
-</p>
+## 🎯 What I'm Up To
+
+- 🔨 **Currently Building:** Cross-platform mobile apps with Compose Multiplatform
+- 🌱 **Learning:** Advanced Android architecture patterns and backend integration
+- 🎓 **Studying:** Computer Science with focus on mobile technologies
+- 💡 **Exploring:** AI integration in mobile apps and modern UI frameworks
+- 🤝 **Open to:** Collaboration on exciting mobile projects
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🏗️ Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-4ECDC4?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-45B7D1?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-96CEB4?style=for-the-badge)
+
+### 💻 Languages & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 Tools & Development
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dmc0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&icon_color=4285F4&text_color=E6EDF3&ring_color=4285F4" alt="Haitham's GitHub Stats"/>
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmc0001&theme=tokyonight&hide_border=true&background=0D1117&stroke=4285F4&ring=4285F4&fire=FF6B6B&currStreakLabel=4285F4&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Haitham's Streak Stats"/>
+  
+</div>
+
+<div align="center">
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmc0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E6EDF3&langs_count=8&hide=html,css" alt="Top Languages"/>
+  
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=dmc0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+  
+</div>
+
+---
+
+## 📱 Featured Mobile Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmc0001&repo=your-android-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E6EDF3&icon_color=4285F4)](https://github.com/dmc0001/your-android-project)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmc0001&repo=your-compose-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E6EDF3&icon_color=4285F4)](https://github.com/dmc0001/your-compose-project)
+
+</div>
+
+---
+
+## 🌟 Mobile Development Highlights
+
+```
+🎨 UI/UX Excellence
+├── Material Design 3 implementation
+├── Custom animations & transitions  
+├── Responsive layouts for all screen sizes
+└── Accessibility-first approach
+
+🏗️ Architecture Mastery  
+├── Clean Architecture principles
+├── MVVM & MVI patterns
+├── Dependency Injection (Hilt/Koin)
+└── Repository & Use Case patterns
+
+🚀 Performance Optimization
+├── Memory leak prevention
+├── Efficient data binding
+├── Image optimization & caching
+└── Background processing with Coroutines
+
+🔗 Backend Integration
+├── RESTful API consumption
+├── Real-time data with WebSockets
+├── Offline-first architecture
+└── Cloud storage & authentication
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haitham-attab-99435a21b/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lorenzo28669549)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzomedici2001@gmail.com)
+  
+  <br/>
+  
+  **💼 Open for:** Mobile Development Opportunities | Freelance Projects | Technical Collaborations
+  
+  **🎯 Interests:** Android Development | Cross-Platform Solutions | UI/UX Design | Clean Code
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 Developer Quote
+  
+  *"Great mobile apps aren't just built with code—they're crafted with passion, designed with users in mind, and architected for the future."*
+  
+  ---
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=100&section=footer&animation=fadeIn" width="100%"/>
+  
+</div>
