@@ -3,7 +3,8 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Mobile+Developer+%F0%9F%93%B1;Android+%7C+Kotlin+%7C+Compose;Building+Amazing+Apps+%F0%9F%9A%80)
-  
+   <br /><br />
+   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=dmc0001&label=Profile%20Views&color=4285F4&style=for-the-badge" alt="profile views" />
   
 </div>
@@ -22,11 +23,12 @@ class MobileDeveloper {
         "Native Android Development",
         "Jetpack Compose UI",
         "Compose Multiplatform",
+        "Flutter",
         "React Native",
         "Clean Architecture"
     )
     
-    val principles = listOf("MVVM", "MVI", "SOLID", "Clean Code")
+    val principles = listOf("SOLID","Design patterns", "Clean Code", "MVVM", "MVI")
     
     fun currentFocus() = "Building delightful cross-platform experiences"
     fun passion() = "Creating user-centric apps that make a difference"
@@ -41,8 +43,8 @@ class MobileDeveloper {
 
 - 🔨 **Currently Building:** Cross-platform mobile apps with Compose Multiplatform
 - 🌱 **Learning:** Advanced Android architecture patterns and backend integration
-- 🎓 **Studying:** Computer Science with focus on mobile technologies
-- 💡 **Exploring:** AI integration in mobile apps and modern UI frameworks
+- 🎓 **Studying:** System Engineering with a focus on mobile technologies; also exploring system design and modern web tech
+- 💡 **Exploring:** AI integration in mobile apps, modern UI frameworks, system design, and web technologies like React and Node.js
 - 🤝 **Open to:** Collaboration on exciting mobile projects
 
 ---
@@ -59,10 +61,11 @@ class MobileDeveloper {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🏗️ Architecture & Patterns
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-96CEB4?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-96CEB4?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-4ECDC4?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/MVI-45B7D1?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-96CEB4?style=for-the-badge)
 
 ### 💻 Languages & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
