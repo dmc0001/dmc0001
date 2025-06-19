@@ -124,10 +124,9 @@ class MobileDeveloper {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmc0001&repo=MenuNetwork&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E6EDF3&icon_color=4285F4)](https://github.com/dmc0001/MenuNetwork)
+[![MenuNetwork](https://github-readme-stats.vercel.app/api/pin/?username=dmc0001&repo=MenuNetwork&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E6EDF3&icon_color=4285F4)](https://github.com/dmc0001/MenuNetwork)
+[![note-backend](https://github-readme-stats.vercel.app/api/pin/?username=dmc0001&repo=note-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E6EDF3&icon_color=4285F4)](https://github.com/dmc0001/note-backend)
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmc0001&repo=note-backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=E6EDF3&icon_color=4285F4)](https://)_)]()
 
 
 </div>
